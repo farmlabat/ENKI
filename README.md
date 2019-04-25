@@ -1,0 +1,2 @@
+# ENKI
+ENKI is a self reproducing CNC router made entirely of plywood and materials from the hardware store. But before that it was a Sumerian god, the creator of humans and the god of the tricksters, magicians and crafts people, mischief, knowledge, water and creation. The aim of this project is to create a machine that can clone itself with the help of humans, working together collectively to a achieve a broader distribution of digital tools among them.
